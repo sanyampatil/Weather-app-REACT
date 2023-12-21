@@ -64,7 +64,7 @@ const Card = () => {
              <i className={"wi wi-strong-wind"}></i>
            </p>
            <p className="extra-info-leftside">
-              <br />
+               <br />
              Speed
            </p>
          </div>
